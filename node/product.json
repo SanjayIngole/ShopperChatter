@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+    "id" : 1000,
+    "type" : "CH",
+    "name" : "chair",
+    "description" : "Red Leather Chair",
+    "color" : "RED",
+    "price" : 45.00
+    },
+    {
+      "id" : 1001,
+      "type" : "CH",
+      "name" : "chair",
+      "description" : "A BLue Chair",
+      "color" : "BLUE",
+      "price" : 45.00
+    },
+    {
+      "id" : 1002,
+      "type" : "CH",
+      "name" : "chair",
+      "description" : "Brown Luxury Chair",
+      "color" : "BROWN",
+      "price" : 45.00
+    }
+]
+}
