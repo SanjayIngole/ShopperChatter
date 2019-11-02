@@ -48,3 +48,8 @@ You : I want to buy a white chair
 App : Here's what I found.
 
 <<List of Products>>
+Note: All the Products come with a link to see that product with Augmented Reality. User will have to enable the camera and see how the product looks.
+
+You : Do you also have any tables?            
+
+App: Sorry, we don't have any products like that 😞
